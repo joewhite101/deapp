@@ -1,0 +1,12 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data"
+  },
+  "entities": {
+    "finance": {
+      "noItems": "No finances available",
+      "id": "ID",
+      "name": "entities.finance.name"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+version: 0.0.1
+code: finance-details-widget
+titles:
+    en:  Finance Details Widget
+    it:  Finance Details Widget
+group: free
+customUiPath: finance-details-widget.ftl

@@ -1,0 +1,7 @@
+version: 0.0.1
+code: finance-table-widget
+titles:
+    en:  Finance Table Widget
+    it:  Finance Table Widget
+group: free
+customUiPath: finance-table-widget.ftl

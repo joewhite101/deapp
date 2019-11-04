@@ -1,0 +1,12 @@
+{
+  "common": {
+    "couldNotFetchData": "Errore durante la connessione al server"
+  },
+  "entities": {
+    "finance": {
+      "noItems": "Nessun finance disponibile",
+      "id": "ID",
+      "name": "entities.finance.name"
+    }
+  }
+}

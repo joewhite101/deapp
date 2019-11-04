@@ -1,0 +1,16 @@
+{
+  "common": {
+    "couldNotFetchData": "Unfortunately we could not fetch entity data",
+    "widgetName": "Details about '{{widgetNamePlaceholder}}'",
+    "name": "Name",
+    "value": "Value",
+    "loading": "Loading...",
+    "missingId": "Please provide finance ID"
+  },
+  "entities": {
+    "finance": {
+      "id": "ID",
+      "name": "entities.finance.name"
+    }
+  }
+}
