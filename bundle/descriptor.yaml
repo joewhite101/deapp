@@ -15,16 +15,9 @@ components:
       code: "finance-admin"
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here
 
-    permissions: []
-
   widgets:
     - ui/widgets/finance/tableWidget/table-widget.yaml
     - ui/widgets/finance/detailsWidget/details-widget.yaml
     - ui/widgets/finance/formWidget/form-widget.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
-  pageModels:
-
-  contentTypes:
-
-  contentModels:
