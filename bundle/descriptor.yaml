@@ -1,0 +1,25 @@
+version: entando.org/v1alpha1
+code: deapp_bundle
+description: This is the deapp bundle
+
+components:
+  service:
+    image: FIXME
+    ingressPath: /deapp
+    healthCheckPath: /actuator/health
+    dbms: mysql
+    roles:
+    - name: deapp-admin
+      code: "deapp-admin"
+# entando-needle-descriptor-add-roles - Entando blueprint will add roles here
+
+    permissions: []
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
+  pageModels:
+
+  contentTypes:
+
+  contentModels:
