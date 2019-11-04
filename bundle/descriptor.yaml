@@ -4,7 +4,7 @@ description: This is the deapp bundle
 
 components:
   service:
-    image:jwhite101/deapp
+    image: jwhite101/deapp
     ingressPath: /deapp
     healthCheckPath: /actuator/health
     dbms: mysql
